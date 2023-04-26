@@ -1,0 +1,9 @@
+.borderImage {
+    width: 25%;
+    border: solid green 5px;
+}
+
+img {
+    width: 50%;
+    margin-left: 25%;
+}
